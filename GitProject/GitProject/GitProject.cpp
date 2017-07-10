@@ -11,7 +11,7 @@ using namespace std;
 void instructionsJohnson();
 void AbdelAitroua();
 void RyanLuig();
-
+void AdityaReddy();
 void AndrewNash();
 void MatthewTrebing();
 
@@ -23,6 +23,7 @@ int main()
 	AbdelAitroua();
 	AndrewNash();
 	MatthewTrebing();
+	AdityaReddy();
 	cin >> pause;
 	return 0;
 }
@@ -63,5 +64,9 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
-
+void AdityaReddy()
+{
+	cout<<"Aditya Reddy Kankanala<< endl;
+	cout<<"Dont trouble the trouble <<endl;
+}
 
